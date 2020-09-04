@@ -1,0 +1,1 @@
+from .folium import FoliumRenderer
