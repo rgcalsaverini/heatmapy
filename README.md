@@ -1,6 +1,8 @@
 
 # HeatMaPy
 
+Check [my other projects](https://gitlab.com/rgcalsaverini/index) here!
+
 A (rather incomplete and alpha) library to render custom map visualizations.
 Specifically heat-map-like ones.
 
